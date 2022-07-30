@@ -1,0 +1,1 @@
+aprendendo a anotar e indexar arquivos no github, lembrando que git é diferente do github
